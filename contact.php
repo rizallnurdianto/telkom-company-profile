@@ -8,7 +8,7 @@ require 'includes/header.php';
     <div class="container grid-2">
         <div>
             <span class="eyebrow">Kontak</span>
-            <h1>Kirim pesan</h1>
+            <h1>Hubungi Kami</h1>
             <p class="lead">Form ini mendemonstrasikan proses INSERT ke database dengan prepared statement.</p>
 
             <?php if ($success): ?>
