@@ -26,8 +26,6 @@ Penyelesaiannya dilakukan dengan:
 3. Menjalankan `git add includes/header.php`
 4. Menjalankan `git commit -m "merge: selesaikan conflict navbar"`
 
-Setelah merge selesai, branch `conflict-navbar` dihapus karena sudah tidak diperlukan lagi.
-
 ## Riwayat Praktikum Git
 * 57d9830 (HEAD -> main, origin/main) docs: memperbarui dokumentasi README
 * f96a9f2 (tag: v1.0.0) Revert "docs: perubahan untuk simulasi revert"
