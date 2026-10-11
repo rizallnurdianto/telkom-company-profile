@@ -29,19 +29,20 @@ Penyelesaiannya dilakukan dengan:
 Setelah merge selesai, branch `conflict-navbar` dihapus karena sudah tidak diperlukan lagi.
 
 ## Riwayat Praktikum Git
-* f96a9f2 (HEAD -> main, tag: v1.0.0, origin/main) Revert "docs: perubahan untuk simulasi revert"
+* 57d9830 (HEAD -> main, origin/main) docs: memperbarui dokumentasi README
+* f96a9f2 (tag: v1.0.0) Revert "docs: perubahan untuk simulasi revert"
 * 6b68780 docs: perubahan untuk simulasi revert
 *   ff80dc2 merge: selesaikan conflict README
-|\  
+|\
 | * 5093849 docs: perubahan dari Laptop B
 * | 6e5648c docs: perubahan dari Laptop A
-|/  
+|/
 * 50faac0 docs: perbarui README dari Laptop B
 *   d350797 merge: selesaikan conflict navbar
-|\  
+|\
 | * f3d0e4b (conflict-navbar) feat: ubah label profil pada branch conflict
 * | d7cc0f2 style: ubah label profil pada main
-|/  
+|/
 * a3c2e71 feat: tambahkan informasi fokus pembelajaran
 * 7b81ced feat: tambahkan form admin lokal untuk berita
 * 236a220 feat: simpan pesan kontak ke database
